@@ -1,5 +1,5 @@
 # MovieTrailers
-A simple demo project for The Movie DB based on <b>MVVM clean architecture</b>.
+A simple demo project for The Movie DB based on <b>MVVM architecture</b>.
 
 #### App Features
 * Users can view list of the latest movies.
