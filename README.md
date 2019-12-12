@@ -2,10 +2,8 @@
 A simple demo project for The Movie DB based on <b>MVVM clean architecture</b>.
 
 #### App Features
-* Users can view list of the latest movies of their choice.
-* Users can view list of the latest Tv series of their choice.
-* Users can filter the movies or tv series based on popularity, upcoming and top rated.
-* Users can search for any movie or tv series of their choice.
+* Users can view list of the latest movies.
+* Users can view list of the latest Tv series.
 * Users can click on any movie or tv series to watch the trailers of their choice.
 
 
